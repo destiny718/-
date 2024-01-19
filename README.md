@@ -1,4 +1,8 @@
-# homework
-It's a repo of code in thucs_FOPhomework.
-### first edited on Mar. 5th 2022
-### edited on May 27th 2022
+# THUCS程序设计基础作业
+
+> 2021-2022学期王瑀屏老师的程序设计基础
+
+- 代码写的乱七八糟，当时还是完全新手的我丝毫不注重码风((
+- 整体文件懒得整理了，图一乐放这。
+- 还有大作业的代码TinyShell。写一个简单的命令行字符处理程序。给我分配的模块比较简单，一两天就解决了。
+- 感谢已经离开清华的wyp老师，属于是少有讲课不错的老师了。
